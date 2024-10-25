@@ -1,5 +1,5 @@
 # Gestion de stockage
-
+ATTENTION CHANGER SCREEN CAR FSTAB pas UUID 
 ## 1.1 Préparation du disque
 
 
