@@ -1,5 +1,5 @@
 # Gestion de stockage
-ATTENTION CHANGER SCREEN CAR FSTAB pas UUID 
+
 ## 1.1 Préparation du disque
 
 
@@ -16,4 +16,6 @@ ATTENTION CHANGER SCREEN CAR FSTAB pas UUID
 
 ![images_5](./images/montage_fs.png) 
 
-![images_6](./images/fstab.png)
+![images_6](./images/uuid.png)
+
+![images_7](./images/fstab.png)
